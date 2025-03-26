@@ -34,5 +34,34 @@ index.html
 </body>
 
 </html>
+AFTER:
 style.css 
+![image](https://github.com/user-attachments/assets/518ec727-b380-4c31-a0a8-fa2a7e4f74c6)
+
+/* Write your code here: */
+/* Group */
+h1,
+h2 {
+  color: blueviolet;
+}
+
+/* Child */
+.box > p {
+  color: firebrick;
+}
+
+/* Descendent */
+.box li {
+  color: blue;
+}
+
+/* Chained */
+li.done {
+  color: green;
+}
+
+/* Multiple Combiners */
+ul p.done {
+  font-size: 0.5rem;
+}
 
