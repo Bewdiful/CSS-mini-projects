@@ -35,7 +35,9 @@ index.html
 
 </html>
 AFTER:
+
 style.css 
+
 ![image](https://github.com/user-attachments/assets/518ec727-b380-4c31-a0a8-fa2a7e4f74c6)
 
 /* Write your code here: */
